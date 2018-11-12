@@ -50,6 +50,7 @@ public class HangmanLogic {
             } else {
                 hiddenWord += "_";
                 i++;
+                //test comment
             }
             i++;
         }
